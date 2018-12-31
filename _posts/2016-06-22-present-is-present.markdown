@@ -26,7 +26,7 @@ I picked up my guitar, recorded 'Happy birthday' - so that I can wish him at exa
 
 I heard my recording twice to make sure it's good enough to send. Heard that one more time to appreciate myself. And yet, I tried one more time just to see whether I can do any better. Heard the new one twice but I decided to stick with the first attempt. Scrolled down to see a lot of old-buried recordings which I had almost forgotten. Stuck my headphones, and played a random recording. Suddenly I realized, I have exam tomorrow! Surprisingly, it was just 21:20. `"Oh cool, let me hear just this one and then I will study"` And when I glanced at the time a few minutes later, it was 22:00. `"Shit!!"` I took my pen and started planning what to study. But deep inside, I was not happy about that time-calculation I made about 'when' to send that recording. `"Ohhh, yeah, I didn't consider his downloading time! How can I forget that?? Damn! So, I know he has 3G; It takes 10-15 seconds to download. So, my planning is okay but a minute earlier would be much better."` *Changed the reminder manually*. `"But wait, this is exam time; What if he turned off his cell phone/data(?). Wait, let me text him now and see."`
 `"Damn, he is offline; Let me call him and ask for study suggestion and to come online, too! :)".`
-
+ 
 <br>
 
 **[calling...]**
