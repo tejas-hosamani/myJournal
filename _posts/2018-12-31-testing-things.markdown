@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "First post on my blog to test everything's working properly."
+author: Tejas
 date:   2018-12-31 16:25:20 +0530
 categories: Update
+
 ---
 
 Just writing this to test everything's working fine. You probably, already know what to expect from this post because you have already read the title. But anyway, I have to continue writing until it's about 3-4 lines so that I get a rough understanding how things look. I have already tested this, of course but this will be a test on production site and I don't want to add Lorem ipsom. Uh, I guess that should be enough.
