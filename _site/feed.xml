@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MyJournal</title>
+    <description>&lt;h3&gt;Hello world, this is&lt;/h3&gt;&lt;h1&gt;MyJournal&lt;/h1&gt;</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 31 Dec 2018 18:25:09 +0530</pubDate>
+    <lastBuildDate>Mon, 31 Dec 2018 18:25:09 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>First post on my blog to test everything's working properly.</title>
+        <description>&lt;p&gt;Just writing this to test everything’s working fine. You probably, already know what to expect from this post because you have already read the title. But anyway, I have to continue writing until it’s about 3-4 lines so that I get a rough understanding how things look. I have already tested this, of course but this will be a test on production site and I don’t want to add Lorem ipsom. Uh, I guess that should be enough.&lt;/p&gt;
+
+&lt;p&gt;Let me also try a tiny JS snippet. Hope that works out.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newVar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Log this: &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newVar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Oh, it did work properly. I am glad it worked. As you can see, it’s a last day of 2018. I have so much to write about 2018; but not right now. I have to host this site now.&lt;/p&gt;
+
+&lt;p&gt;Later.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Dec 2018 16:25:20 +0530</pubDate>
+        <link>http://localhost:4000/update/2018/12/31/testing-things.html</link>
+        <guid isPermaLink="true">http://localhost:4000/update/2018/12/31/testing-things.html</guid>
+        
+        
+        <category>Update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
