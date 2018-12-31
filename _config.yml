@@ -12,8 +12,8 @@ email: tejas007tez@gmail.com
 #write html inside the double quotes to display in jumbotron
 description: "<h3>Hello world, this is</h3><h1>MyJournal</h1>"
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/myJournal" # the subpath of your site, e.g. /blog
+url: "http://localhost:4000" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
