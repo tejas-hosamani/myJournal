@@ -304,7 +304,9 @@ pre code {
   font-size: 14px; }
 
 p {
-  margin: 0 0 2em !important;
+  margin: 0 0 2em !important; }
+
+.page-stuff p {
   text-align: justify; }
 
 blockquote p {
