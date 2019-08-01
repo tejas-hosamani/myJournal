@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Present is a present"
-author: Tejas
-date:   2016-06-22 20:47:20 +0530
+layout    : post
+title     : "Present is a present"
+author    : Tejas
+date      : 2016-06-22 20:47:20 +0530
 categories: Update
 ---
 

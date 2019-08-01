@@ -12,12 +12,16 @@ permalink: /about/
 
 </div> -->
 
-Identification can be a tricky thing, sometimes. For simplicity, let's say I am a web-developer. I like playing
+> Tl;dr: I am honest, loving, caring, creative.
+
+
+~~Identification can be a tricky thing, sometimes. For simplicity, let's say I am a web-developer. I like playing
 around with technology and anything new, really. I am curious about a lot of things which includes life's biggest
-questions. That takes me to philosophical areas, which I find very interesting. Admittedly, I don't find many people truly interested in those kinds of stuff; So, I often keep my thoughts to myself or sometimes write about them - some of them are here, on this website.
+questions. That takes me to philosophical areas, which I find very interesting. Admittedly, I don't find many people truly interested in those kinds of stuff; So, I often keep my thoughts to myself or sometimes write about them - some of them are here, on this website.~~
 
-Other than that, I used to play Table tennis a lot. I haven't played it recently and I would definitely if I get a chance. I liked that game very much. 
+I have asked and re-asked this question to myself, who/what am I? This isn't a simple question to me. It's philosophical and existential.
 
+In short, I've found the answer - mostly intellectually and experientially in few occasions. And I have memories and some intuitive understanding of those experiences, hence the answer. Although, I am aware of how much journey I've left to cover yet. If you wanna tag along, hey, welcome aboard.
 
 
 <!-- <div class="manual manual-title">
