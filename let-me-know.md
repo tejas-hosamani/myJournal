@@ -5,8 +5,8 @@ title: Let me know..
 permalink: /let-me-know/
 ---
 
-Hey there,
+<span>H</span>{:class="oneLineFirstLetter"}ey there,
 
-If you are planning to use any content from this site, please let me know [@tejastez](https://twitter.com/tejastez), on Twitter.
+If you are planning to use any content from this site, please let me know [@tejastez](https://twitter.com/tejastez){:target="_blank"}, on Twitter.
 
 Thanks!

@@ -163,9 +163,17 @@ pre code {
 .jumbotron{
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.15);
 }
+
 .navbar{
   box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.15);
 }
+
+.navbar-fixed-bottom {
+  border-radius: 50% 50% 0px 0px;
+  background: #fff !important;
+  box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.15);
+}
+
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size  : 16px;
@@ -222,6 +230,12 @@ $on-laptop    : 680px;
     p {
         font-size: 16px;
     }
+
+    .navbar-fixed-bottom {
+      border-radius: 50% 50% 0px 0px!important;
+      background: #fff !important;
+      box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.15);
+    }
 }
 
 @media (max-width: 550px) {
@@ -270,4 +284,36 @@ hr {
 
 .jumbotron p {
     margin-bottom: 15px !important;
+}
+
+.post-content > p:first-child::first-letter {
+  width: 1em;
+  font-size: 3em;
+  line-height: 93%;
+  float: left;
+}
+
+.firstWord {
+  float: left;
+  width: 1em;
+  font-size: 3em;
+  line-height: 93%;
+}
+
+.oneLineFirstLetter {
+  width: 1em;
+  font-size: 3em;
+  line-height: 93%;
+}
+
+.post-content .poem {
+  text-align: center!important
+}
+
+.post-content > .poem:first-child::first-letter  {
+  float: none!important;
+}
+
+.post-content > .poem  {
+  text-align: center !important;
 }

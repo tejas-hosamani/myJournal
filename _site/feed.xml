@@ -5,20 +5,73 @@
     <description>&lt;h3&gt;Hello world, this is&lt;/h3&gt;&lt;h1&gt;MyJournal&lt;/h1&gt;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Aug 2019 20:29:10 +0530</pubDate>
-    <lastBuildDate>Thu, 01 Aug 2019 20:29:10 +0530</lastBuildDate>
+    <pubDate>Fri, 02 Aug 2019 20:08:10 +0530</pubDate>
+    <lastBuildDate>Fri, 02 Aug 2019 20:08:10 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
+        <title>Foolish Child</title>
+        <description>&lt;p class=&quot;poem&quot; style=&quot;text-align: center&quot;&gt;
+Foolish child with no human eyes &lt;br /&gt;
+What did you expect? &lt;br /&gt;
+Life should be fair? Creatures be nice? &lt;br /&gt;
+And know how to act? &lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;
+You primitive mind of a different time &lt;br /&gt;
+There is no such fantasy &lt;br /&gt;
+Of blind love and fearless acts &lt;br /&gt;
+Or superior loyalty&lt;br /&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;
+These beautiful lies you painfully torn &lt;br /&gt;
+Of what is what and what is not&lt;br /&gt;
+Since the day you were born&lt;br /&gt;
+One at a time, a piece here and there &lt;br /&gt;
+You have picked yourself apart &lt;br /&gt;
+I can see your despair &lt;br /&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;
+There is no room for such infantile thought&lt;br /&gt;
+Among the gown and the adult &lt;br /&gt;
+No, grow cold and calculate &lt;br /&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;
+Purity of mind and soul is nothing to obtain &lt;br /&gt;
+It's a pointless goal &lt;br /&gt;
+Be thick skinned and focus like a rifle &lt;br /&gt;
+Don't trifle. &lt;br /&gt;
+&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;
+Be your own favorite, love yourself &lt;br /&gt;
+Forget what they teach&lt;br /&gt;
+Don't expect to be given a treat &lt;br /&gt;
+Because in this world you are simply meat. &lt;br /&gt;
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: right&quot;&gt; - Emelinda&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Aug 2019 19:31:00 +0530</pubDate>
+        <link>http://localhost:4000/poem/2019/08/02/foolish-child.html</link>
+        <guid isPermaLink="true">http://localhost:4000/poem/2019/08/02/foolish-child.html</guid>
+        
+        
+        <category>Poem</category>
+        
+      </item>
+    
+      <item>
         <title>First post on my blog to test everything's working properly.</title>
-        <description>&lt;p&gt;Just writing this to test everything’s working fine. You probably, already know what to expect from this post because you have already read the title. But anyway, I have to continue writing until it’s about 3-4 lines so that I get a rough understanding how things look. I have already tested this, of course but this will be a test on production site and I don’t want to add Lorem ipsom. Uh, I guess that should be enough.&lt;/p&gt;
+        <description>&lt;p&gt;Writing this to test everything’s working as expected. You probably know what to expect from this post because you have read the title. But anyway, I have to continue writing until it’s about 3-4 lines so that I get a good understanding of how things look on the page. I also don’t want to add dummy-text like Lorem ipsom, you know. Uh, I guess that should be enough.&lt;/p&gt;
 
-&lt;p&gt;Let me also try a tiny JS snippet. Hope that works out.&lt;/p&gt;
+&lt;p&gt;Let me also try a tiny JS snippet while I am at it.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newVar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Log this: &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newVar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Log: &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Oh, it did work properly. I am glad it worked. As you can see, it’s a last day of 2018. I have so much to write about 2018; but not right now. I have to host this site now.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+Ah, it does work. As you can see, it’s a last day of &lt;code class=&quot;highlighter-rouge&quot;&gt;2018&lt;/code&gt;. I have so much to write about 2018; but not right now. I have to host this site.&lt;/p&gt;
 
 &lt;p&gt;Later.&lt;/p&gt;
 </description>
@@ -32,39 +85,72 @@
       </item>
     
       <item>
+        <title>Random thoughts</title>
+        <description>&lt;p&gt;Here I am - writing this at 2am. Why? there is no point. Right now, I want to write about a topic, which I haven’t even decided on. But at 2am, it’s too soon to go to bed for me and too late to start anything new. I don’t like it.&lt;/p&gt;
+
+&lt;p&gt;Once the day begins, once again it’s the same morning weather, same old metal gates and rain drops on it. When I stop and observe, they look beautiful. But when I am busy or late, I ignore them. Maybe they were beautiful even then.&lt;/p&gt;
+
+&lt;p&gt;I just remembered about the formula that I’ve been working on since.. more than 7 years. The prime numbers! I remember the first time I read about them in my class textbook. They didn’t look all that fancy. Now, I know, I wasn’t ready for them.&lt;/p&gt;
+
+&lt;p&gt;Thinking about THIS very thought, everything that everyone told me in my life since my early childhood, every advice that everybody gave me - I probably wasn’t ready for them. Some of them were bad advices, of course, but hey, how do I know? For all I know, &lt;code class=&quot;highlighter-rouge&quot;&gt;I don't know&lt;/code&gt; is the default position.&lt;/p&gt;
+
+&lt;p&gt;There is so much (goood) information out there that it makes us take it all for granted. Too much of it makes it look nothing.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Once, when I was 14, standing on stage, singing prayers for my school assembly, looking at all those people, I asked myself: &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;What's the point of all this?&quot;&lt;/code&gt;. Probably the first important thought/question I ever had.&lt;/p&gt;
+
+&lt;p&gt;Maybe that was the time my whole thinking changed to.. something.. different. That easy, simple-looking question got me thinking. I asked this questions to many friends, in different ways but nobody seemed to understand it and why it was important question. I’ve always imagined, people thought and analyzed things the same way as I did. Looking at people functioning well in their daily lives, I thought they had everything figured out. I thought I was the one with problems. When I realized that wasn’t the case, I felt, honestly, disgusted. I told myself if being like the most is normal, I refuse being normal.&lt;/p&gt;
+
+&lt;p&gt;eh, it went all over the place.&lt;/p&gt;
+
+&lt;p&gt;The point, I think, is to be aware. To increase awareness. Of ourselves, of surrounding. And I think that’s the point of all this. Making our minds open. Being aware.&lt;/p&gt;
+
+&lt;p&gt;Ironically, it’s time to sleep. xD&lt;/p&gt;
+
+&lt;p&gt;Later.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 08 Oct 2016 14:50:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/2016/10/08/random-thoughts.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/08/random-thoughts.html</guid>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
         <title>Present is a present</title>
-        <description>&lt;p&gt;It’s almost 21:00; I have a semester exam at 14:00, tomorrow. As usual, I haven’t studied anything yet. Although, I still hope that I will.&lt;/p&gt;
+        <description>&lt;p&gt;It’s almost 21:00; I have a semester exam at 14:00, tomorrow. I haven’t studied much, yet. Although, I still hope that I will.&lt;/p&gt;
 
 &lt;p&gt;At this very moment, I am thinking - how did this happen? I mean, I had so much time. I was ready t..&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;An alarm rang;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Alarm goes off;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;It reminded me about one of my friend’s birthday.&lt;/p&gt;
 
-&lt;p&gt;I picked up my guitar, recorded ‘Happy birthday’ - so that I can wish him at exact 12AM. But I have to calculate - when exactly to press that ‘send’ button(?) I want mine to be the first wish. Okay, the file size is about 3MB; Based on my Internet (upload)speed, it takes at least 2 minutes(3G but, yeah). So, I have to tap send button at 23:58.&lt;/p&gt;
+&lt;p&gt;I picked up my guitar, recorded ‘Happy birthday’ - so that I can wish him at exact 12AM. But I have to calculate - when exactly to press that ‘send’ button(?) I want mine to be the first wish(not sure why). Okay, the file size is about 3MB; Based on my Internet (upload)speed, it takes at least 2 minutes(3G but, yeah). So, I have to tap send button at 23:58.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Ok Google, remind me to wish my friend at 11 58.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“Ok, do you want to save this?”&lt;/p&gt;
+  &lt;p&gt;Google: “Please unlock your device.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“Yes.”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Urrgh!&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;I heard my recording twice to make sure it’s good enough to send. Heard that one more time to appreciate myself. And yet, I tried one more time just to see whether I can do any better. Heard the new one twice but I decided to stick with the first attempt. Scrolled down to see a lot of old-buried recordings which I had almost forgotten. Stuck my headphones, and played a random recording. Suddenly I realized, I have exam tomorrow! Surprisingly, it was just 21:20. &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Oh cool, let me hear just this one and then I will study&quot;&lt;/code&gt; And when I glanced at the time a few minutes later, it was 22:00. &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Shit!!&quot;&lt;/code&gt; I took my pen and started planning what to study. But deep inside, I was not happy about that time-calculation I made about ‘when’ to send that recording. &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Ohhh, yeah, I didn't consider his downloading time! How can I forget that?? Damn! So, I know he has 3G; It takes 10-15 seconds to download. So, my planning is okay but a minute earlier would be much better.&quot;&lt;/code&gt; &lt;em&gt;Changed the reminder manually&lt;/em&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;But wait, this is exam time; What if he turned off his cell phone/data(?). Wait, let me text him now and see.&quot;&lt;/code&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Damn, he is offline; Let me call him and ask for study suggestion and to come online, too! :)&quot;.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;I heard my recording twice to make sure it’s good enough to send. Heard that one more time to appreciate myself. And yet, I tried one more time just to see if I could do any better. Heard the new one twice but I decided to stick with the first attempt. Scrolled down to see a lot of old-buried recordings which I had forgotten. Plugged in my headphones, and played one at random. Suddenly I realized, I have exam tomorrow! Surprisingly, it was just &lt;code class=&quot;highlighter-rouge&quot;&gt;21:20&lt;/code&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Oh cool, let me hear just this one and then I will study&quot;&lt;/code&gt; And when I glanced at the time a few minutes later, it was &lt;code class=&quot;highlighter-rouge&quot;&gt;22:00&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Shit!!&quot;&lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[calling…]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I took my pen and started studying. But deep inside, I wasn’t happy about that time-calculations that I made about ‘when’ to send that recording. &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Ohhh, yeah, I didn't consider his downloading time! How could I miss that?? Damn! So, I know he has 3G; It takes 10-15 seconds to download. So, my planning is okay but a minute earlier would be much better.&quot;&lt;/code&gt; &lt;em&gt;Changed the reminder time&lt;/em&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;But wait, this is exam-time; What if he turned off his cell phone/data(?). Let me text him now and see.&quot;&lt;/code&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Damn, he is offline; Let me call him and ask for study suggestion and to come online, too! :)&quot;.&lt;/code&gt;
+&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;[still calling…]&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[calling…]&lt;/strong&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Him:&lt;/strong&gt; “Hello(..?)”&lt;/p&gt;
@@ -121,7 +207,7 @@
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Crap!&lt;/code&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“Okay hel pa”;&lt;/p&gt;
+  &lt;p&gt;“Okay, hel pa”;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -151,7 +237,7 @@
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“Ae thanks le. Nenap ittiyapa exam time naagu?”;&lt;/p&gt;
+  &lt;p&gt;“Ae thanks le. Nenap ittiyapa exam timedaagu?”;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;I hated my cell phone for reminding me.&lt;/code&gt;&lt;/p&gt;
@@ -170,32 +256,98 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;This happened exactly 11 years ago..in binary. I don’t know where he is now.&lt;/p&gt;
+&lt;p&gt;This happened exactly 3 years ago. I don’t even know where he is now.&lt;/p&gt;
 
-&lt;p&gt;Found those recordings today, this time, I liked the second attempt. He never heard it, though. Perhaps, he never will. I had spent about 20 minutes of my time making them and perfecting them. Perhaps, it was just meant to be an experience for myself to reflect upon - only time can tell.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-Now, I am gonna start this article with the word now. Oh, I already did. Anyway, now that I am 3 years in the future, what I would like to say to my past self if I ever get to meet him?&lt;/p&gt;
+&lt;p&gt;Found those recordings today, this time, I liked the second attempt. He never heard it though. Perhaps, he never will. I had spent about 20 minutes of my time making them and perfecting them. Perhaps, it was just meant to be an experience for myself to reflect upon.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-First thing, &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;You are stupid. Period&quot;&lt;/code&gt;;
-Second, &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;You waste too much time thinking about useless things!&quot;&lt;/code&gt;
-Third, &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;You never thought about circumstances. You acted blindly. You are such a boring person.&quot;&lt;/code&gt;&lt;/p&gt;
+Now that I am 3 years in the future, what I would like to say to my past self if I ever get to meet him?&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+First thing, &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;You are stupid.&quot;&lt;/code&gt;;
+Second, &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;You waste too much time thinking about useless things.&quot;&lt;/code&gt;
+Third, &lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;You never thought about circumstances. You acted blindly.&quot;&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 He replied!&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;“Okay. Maybe you are smarter than me. I agree that I did think about useless things which are no longer useful to you now. I did act blindly time to time because, as you said, I am stupid compared to you. But hey, you are what you are because of me. All those useless thoughts made you what you are today. You know those are useless because you spent time thinking about them. At a subconscious level, they defined you. It makes perfect sense to you now, right? There is no you without me. It sounds cliche, but it’s true and you know it. Yes, I’ve made many mistakes but I did some really good things too; I know you are proud of them still. And about those mistakes, how well are you doing on them now? You can’t blame me for what I was. Because you are the result of me. I defined you, man. You know, if you think about it, I was way cooler than you. I had time to play guitar, play TT, study philosophy and many more things. What do you do these days? I don’t see much playfulness in your life these days. Again, sounds cliche. But you know what I mean. Seems like you’ve lost your freedom growing up. Sorry, but I almost wanna laugh at you, man.”&lt;/p&gt;
+  &lt;p&gt;&lt;span style=&quot;color: blue&quot;&gt;“Okay. Well, wtf.”&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Me:&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;“Okay, I had forgotten that you were egoistic, too. But.. yeah, you are right about many things. Do you remember, once you wrote something like ‘Present is indeed present’ and tried to make sense of it but it went tough? Guess what, I haven’t figured it out yet. Maybe that’s why I am still thinking about you. Truly, thank you for everything you’ve done for present-me. In a way, you’ve gifted me my present self. Thank you. Present is truly a present.”&lt;/p&gt;
+  &lt;p&gt;That’s it?? :D&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span style=&quot;color: blue&quot;&gt;“Well, I mean, of course you are smarter than me. Or at least you think you are. Why would you think otherwise? In the same way, everything I did wasn’t stupid back then.” &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Of course you didn’t know. Because you were stupid.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span style=&quot;color: blue&quot;&gt;“Fine! Call them whatever you want. But you know that I was exploring things. How would you expect yourself to know what you like and don’t unless you explore?” &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Okay, look at that recording and other stupid things during exams.. what the hell was that? He didn’t hear that. Heck, he doesn’t even know you did that. That’s clearly not exploring. Everything has time and place.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span style=&quot;color: blue&quot;&gt;“Easy for you to say now. &lt;em&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;shrugs&lt;/code&gt;&lt;/em&gt; Without me doing things like those, how would you know how to value people? You talk like all-knowing; Wait for a while for your future version to come back and tell you how stupid you are now.”&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alright, shut up now. I am doing way better now.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span style=&quot;color: orange&quot;&gt;&lt;em&gt;Cough!&lt;/em&gt; &lt;em&gt;Clears throat&lt;/em&gt;: Well, hello there!&lt;/span&gt; &amp;lt;- &lt;code class=&quot;highlighter-rouge&quot;&gt;2018 - self&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Oh shit. How did you do that??&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span style=&quot;color: blue&quot;&gt;Hahha, let’s see what he has to say about you.&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span style=&quot;color: orange&quot;&gt;Both of you calm down. You did an amazing job. I don’t have time to talk about this at the moment. I’ll come back - hopefully soon.&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;See? He is proud of me!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span style=&quot;color: blue&quot;&gt;He is talking about me too! &lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Not you, idiot.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span style=&quot;color: orange&quot;&gt;Alright, enough now, kids. I will come back later. Stay quite. Please.&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alright. &lt;span style=&quot;color: blue&quot;&gt;Fine.&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;[to be continued..]&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- I agree that I did think about useless things which are no longer useful to you now. I did act blindly time to time because, as you said, I am stupid compared to you. But hey, you are what you are because of me. All those useless thoughts made you what you are today. You know those are useless because you spent time thinking about them. At a subconscious level, they defined you. It makes perfect sense to you now, right? There is no you without me. It sounds cliche, but it's true and you know it. Yes, I've made many mistakes but I did some really good things too; I know you are proud of them still. And about those mistakes, how well are you doing on them now? You can't blame me for what I was. Because you are the result of me. I defined you, man. You know, if you think about it, I was way cooler than you. I had time to play guitar, play TT, study philosophy and many more things. What do you do these days? I don't see much playfulness in your life these days. Again, sounds cliche. But you know what I mean. Seems like you've lost your freedom growing up. Sorry, but I almost wanna laugh at you, man.&quot; --&gt;&lt;/p&gt;
+
+&lt;!-- Me: --&gt;
+&lt;!-- &gt; &quot;Okay, I had forgotten that you were egoistic, too. But.. yeah, you are right about many things. Do you remember, once you wrote something like 'Present is indeed present' and tried to make sense of it but it went tough? Guess what, I haven't figured it out yet. Maybe that's why I am still thinking about you. Truly, thank you for everything you've done for present-me. In a way, you've gifted me my present self. Thank you. Present is truly a present.&quot; --&gt;
 
 &lt;!-- You might have a million dollar idea. But it worths nothing if you don't live right now. --&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.melinaabbott.com/wp-content/uploads/2011/04/free-gift.jpg&quot; alt=&quot;present&quot; /&gt;&lt;/p&gt;
+&lt;!-- ![present](http://www.melinaabbott.com/wp-content/uploads/2011/04/free-gift.jpg) --&gt;
 
 </description>
         <pubDate>Wed, 22 Jun 2016 20:47:20 +0530</pubDate>
