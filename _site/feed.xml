@@ -3,63 +3,11 @@
   <channel>
     <title>MyJournal</title>
     <description>&lt;h3&gt;Hello world, this is&lt;/h3&gt;&lt;h1&gt;MyJournal&lt;/h1&gt;</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Aug 2019 20:08:10 +0530</pubDate>
-    <lastBuildDate>Fri, 02 Aug 2019 20:08:10 +0530</lastBuildDate>
+    <link>http://localhost:4000/myJournal/</link>
+    <atom:link href="http://localhost:4000/myJournal/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 03 Aug 2019 12:05:59 +0530</pubDate>
+    <lastBuildDate>Sat, 03 Aug 2019 12:05:59 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Foolish Child</title>
-        <description>&lt;p class=&quot;poem&quot; style=&quot;text-align: center&quot;&gt;
-Foolish child with no human eyes &lt;br /&gt;
-What did you expect? &lt;br /&gt;
-Life should be fair? Creatures be nice? &lt;br /&gt;
-And know how to act? &lt;br /&gt;
-&lt;/p&gt;
-
-&lt;p style=&quot;text-align: center&quot;&gt;
-You primitive mind of a different time &lt;br /&gt;
-There is no such fantasy &lt;br /&gt;
-Of blind love and fearless acts &lt;br /&gt;
-Or superior loyalty&lt;br /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;
-These beautiful lies you painfully torn &lt;br /&gt;
-Of what is what and what is not&lt;br /&gt;
-Since the day you were born&lt;br /&gt;
-One at a time, a piece here and there &lt;br /&gt;
-You have picked yourself apart &lt;br /&gt;
-I can see your despair &lt;br /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;
-There is no room for such infantile thought&lt;br /&gt;
-Among the gown and the adult &lt;br /&gt;
-No, grow cold and calculate &lt;br /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;
-Purity of mind and soul is nothing to obtain &lt;br /&gt;
-It's a pointless goal &lt;br /&gt;
-Be thick skinned and focus like a rifle &lt;br /&gt;
-Don't trifle. &lt;br /&gt;
-&lt;/p&gt;
-&lt;p style=&quot;text-align: center&quot;&gt;
-Be your own favorite, love yourself &lt;br /&gt;
-Forget what they teach&lt;br /&gt;
-Don't expect to be given a treat &lt;br /&gt;
-Because in this world you are simply meat. &lt;br /&gt;
-&lt;/p&gt;
-
-&lt;p style=&quot;text-align: right&quot;&gt; - Emelinda&lt;/p&gt;
-</description>
-        <pubDate>Fri, 02 Aug 2019 19:31:00 +0530</pubDate>
-        <link>http://localhost:4000/poem/2019/08/02/foolish-child.html</link>
-        <guid isPermaLink="true">http://localhost:4000/poem/2019/08/02/foolish-child.html</guid>
-        
-        
-        <category>Poem</category>
-        
-      </item>
     
       <item>
         <title>First post on my blog to test everything's working properly.</title>
@@ -76,8 +24,8 @@ Ah, it does work. As you can see, it’s a last day of &lt;code class=&quot;high
 &lt;p&gt;Later.&lt;/p&gt;
 </description>
         <pubDate>Mon, 31 Dec 2018 16:25:20 +0530</pubDate>
-        <link>http://localhost:4000/update/2018/12/31/testing-things.html</link>
-        <guid isPermaLink="true">http://localhost:4000/update/2018/12/31/testing-things.html</guid>
+        <link>http://localhost:4000/myJournal/update/2018/12/31/testing-things.html</link>
+        <guid isPermaLink="true">http://localhost:4000/myJournal/update/2018/12/31/testing-things.html</guid>
         
         
         <category>Update</category>
@@ -111,8 +59,8 @@ Ah, it does work. As you can see, it’s a last day of &lt;code class=&quot;high
 &lt;p&gt;Later.&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Oct 2016 14:50:00 +0530</pubDate>
-        <link>http://localhost:4000/blog/2016/10/08/random-thoughts.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/10/08/random-thoughts.html</guid>
+        <link>http://localhost:4000/myJournal/blog/2016/10/08/random-thoughts.html</link>
+        <guid isPermaLink="true">http://localhost:4000/myJournal/blog/2016/10/08/random-thoughts.html</guid>
         
         
         <category>Blog</category>
@@ -351,8 +299,8 @@ He replied!&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 22 Jun 2016 20:47:20 +0530</pubDate>
-        <link>http://localhost:4000/update/2016/06/22/present-is-present.html</link>
-        <guid isPermaLink="true">http://localhost:4000/update/2016/06/22/present-is-present.html</guid>
+        <link>http://localhost:4000/myJournal/update/2016/06/22/present-is-present.html</link>
+        <guid isPermaLink="true">http://localhost:4000/myJournal/update/2016/06/22/present-is-present.html</guid>
         
         
         <category>Update</category>
